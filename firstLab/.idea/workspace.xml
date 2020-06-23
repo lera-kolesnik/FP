@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7dce669d-cf28-4f5d-bf39-78151af7faa2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1djry41bCptJTytDRkyyUEeMwnD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7dce669d-cf28-4f5d-bf39-78151af7faa2" name="Default Changelist" comment="" />
+      <created>1592949596269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592949596269</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="325" y="85" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592949734655">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="325" y="85" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.797@0.23.1440.797" timestamp="1592949734655" />
+    <state x="605" y="346" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1592949639883">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="605" y="346" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.23.1440.797@0.23.1440.797" timestamp="1592949639883" />
+    <state x="695" y="319" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1592949632807">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="695" y="319" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.797@0.23.1440.797" timestamp="1592949632807" />
+    <state x="517" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1592949603716">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="517" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1592949603715" />
+    <state x="525" y="191" key="run.anything.popup" timestamp="1592949720808">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="525" y="191" key="run.anything.popup/0.23.1440.797@0.23.1440.797" timestamp="1592949720808" />
+  </component>
+</project>
