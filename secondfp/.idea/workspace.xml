@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00310118-d171-47bd-93a2-7d8dca4568fe" name="Default Changelist" comment="" />
+    <list default="true" id="00310118-d171-47bd-93a2-7d8dca4568fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/FP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveData.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RecuesiveData.scala" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,10 +17,14 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1doOXuqSzLB4O6XFPFfkk87naVo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -21,6 +32,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -80,10 +93,20 @@
       <screen x="0" y="23" width="1440" height="803" />
     </state>
     <state x="480" y="86" key="#Auto_Import/0.23.1440.803@0.23.1440.803" timestamp="1593088565659" />
+    <state x="184" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593093234718">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="184" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.800@0.23.1440.800" timestamp="1593093234718" />
+    <state x="184" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.803@0.23.1440.803" timestamp="1593093032735" />
     <state x="459" y="123" width="843" height="593" key="DiffContextDialog" timestamp="1593088315842">
       <screen x="0" y="23" width="1440" height="803" />
     </state>
     <state x="459" y="123" width="843" height="593" key="DiffContextDialog/0.23.1440.803@0.23.1440.803" timestamp="1593088315842" />
+    <state x="376" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1593094148027">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="376" y="258" key="com.intellij.ide.util.TipDialog/0.23.1440.800@0.23.1440.800" timestamp="1593094148027" />
+    <state x="376" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.803@0.23.1440.803" timestamp="1593093431495" />
     <state x="538" y="43" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1593088305718">
       <screen x="0" y="23" width="1440" height="803" />
     </state>

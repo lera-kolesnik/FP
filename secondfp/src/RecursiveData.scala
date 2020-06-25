@@ -1,10 +1,11 @@
-class RecuesiveData {
+class RecursiveData {
 
-  /* sealed trait List[A] 
+  /*  sealed trait List[A] 
   case class Cons[A](head: A, tail: List[A]) extends List[A] 
-  case class Nil[A]() extends List[A] */
+  case class Nil[A]() extends List[A] 
+  */
 
-  /** Напишите свои решения в виде функций. */
+  /* Напишите свои решения в виде функций. */
   object RecursiveData extends App {
     // a) Реализуйте функцию, определяющую является ли пустым `List[Int]`. 
     def listIntEmpty(list: List[Int]): Boolean = list.isEmpty
@@ -19,9 +20,8 @@ class RecuesiveData {
     def testListIntHead(list: List[Int]): Int = listIntHead(list)
 
     // c) Можно ли изменить `List[A]` так чтобы гарантировать что он не является пустым?  
-    def listIsNotEmpty[A](list: List[A], value: A): List[A] = if (list == Nil) list :+ (value: A)
+    def listIsNotEmpty[A](list: List[A], value: A): List[A] = if (list == Nil) list:+ value
     else list
-
     def testIsNotEmpty[A](list: List[A], value: A): List[A] = listIsNotEmpty(list, value)
 
     /* d) Реализуйте универсальное дерево (Tree) которое хранит значения в виде листьев и состоит из: 
@@ -36,5 +36,4 @@ class RecuesiveData {
     println("Test for testIsNotEmpty(List(),5.2) :\t " + testIsNotEmpty(List(), 5.2));
     println("Test for testIsNotEmpty(List(1.3, 3, 4),3.3) :\t " + testIsNotEmpty(List(1.3, 3, 4), 3.3));
   }
-
 }
